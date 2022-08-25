@@ -38,7 +38,8 @@ Common Rules
 ●	Make use of Auto mapper while converting the API Model to View Model
 ●	Implement proper authentication/authorization at API layer using JWT. You should be able to demonstrate this using postman or Swagger to the evaluator during the evaluation of the assignment
 
-To complete the above assignment, you have to create 3 projects
-●	MVC Web Application
-●	Web API
-●	Class Library project for DB operations using Entity Framework code first approach
+#To complete the above assignment, you have to create 3 projects
+ 
+#	 MVC Web Application
+#  Web API
+#  Class Library project for DB operations using Entity Framework code first approach
